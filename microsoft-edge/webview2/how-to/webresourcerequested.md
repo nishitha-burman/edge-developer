@@ -10,7 +10,7 @@ ms.date: 03/16/2022
 ---
 # Navigating with web resource request and response events
 
-Use this technology to do X. Test
+Use this technology to do X. Test2
 
 What UX feature does this provide for your app?
 
